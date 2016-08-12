@@ -1,3 +1,5 @@
+try to make it work with gitlab
+===
 # ghi
 
 GitHub Issues on the command line. Use your `$EDITOR`, not your browser.
